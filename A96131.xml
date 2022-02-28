@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A preparative for the fast, or, a sovereigne balsome for the cure of the distempers of the times.</title>
+            <author>Weall, Job, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96131</idno>
+            <idno type="STC">Wing W1186</idno>
+            <idno type="STC">Thomason E133_8</idno>
+            <idno type="STC">ESTC R23066</idno>
+            <idno type="EEBO-CITATION">99871904</idno>
+            <idno type="PROQUEST">99871904</idno>
+            <idno type="VID">156389</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156389)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E133[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A preparative for the fast, or, a sovereigne balsome for the cure of the distempers of the times.</title>
+                  <author>Weall, Job, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. N. for Richard Lownds, at his shop adjoyning to Ludgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "By Job Weall apothecary".</note>
+                  <note>Signed: I. W. [i.e. Job Weall].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156389:1" rendition="simple:additions"/>
+            <p>A PREPARATIVE FOR THE FAST, OR, A ſovereigne Balſome for the cure of the diſtempers of the times.</p>
+            <p>
+               <add>by Job Weall apothecary</add>
+            </p>
+            <p>LONDON, Printed by <hi>A. N.</hi> for <hi>Richard Lownds,</hi> at his ſhop adjoyning to <hi>Ludgate,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:156389:2"/>
+            <pb n="1" facs="tcp:156389:2"/>
+            <head>A PREPARATIVE FOR the Faſt, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ho that is embarked in the Common Veſſell, intere<g ref="char:EOLhyphen"/>ſted and engaged by the Laws both of Nature and Religion; to mayntain the Truth and Peace of the Church and State, will not at this time of their appa<g ref="char:EOLhyphen"/>rent diſtreſſe, lend his hel<g ref="char:EOLhyphen"/>ping hand, and give his beſt aſsiſtance (as farre as lawfully he may) to any probable way, to cloſe up thoſe fatal wounds that have bin made therin?</p>
+            <p>To that end (according to my meane ability) I
+<pb n="2" facs="tcp:156389:3"/>have, yet once againe, adventured to caſt in my Mite, and to preſent a Sovereigne and infallible Balme to heale all our Solutions of Unitie what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p>Much good may come by making uſe thereof, and no ſmall danger by the neglect therof. If you ſhall finde it conſonant to Gods Truth, beware how you contemne and defer the uſe of it. How<g ref="char:EOLhyphen"/>ever it be accepted, it ſhall comfort mee that I diſcharged my Duty, Conſcience, and true affection, to the beſt of my underſtanding, for the peace and welfare of the Church and State, (though to my owne prejudice.) But to my pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>The moſt ſacred Word of God, and the Laws and Ordinances of Man grounded thereon, are thoſe Oracles which afford Theorems and Aphoriſmes, aſwell for the knowledge of our preſent condition, as alſo for the true indication and perfect cure of the ſame, and which will one day be the Judge of us and all the World.</p>
+            <p>The Diſeaſe whereof the Church and State in generall labour at this preſent time, is a <hi>Solutio Continuitatis,</hi> a ſolution of Unity. This (in Phy<g ref="char:EOLhyphen"/>ſick) is that <hi>Morbus communis,</hi> or preternaturall af<g ref="char:EOLhyphen"/>fect, which alike incommodates the functions of either part, and is variouſly procured by (and I pray God wee ſee it not accompanied with) Wounds, Ulcers, Fractures and Luxations.</p>
+            <p>The Primary and Antecedent cauſe of all theſe Diſunions and Disjunctions, are moſt certainly
+<pb n="3" facs="tcp:156389:3"/>our moſt heinous ſins, whereby wee have juſtly provoked the Almightie to wrath and indignation againſt us.</p>
+            <p>The Secondary, Inſtrumentall, and Conjunct cauſes, are the Malicious and Seditious practices of the Jeſuited Papiſts, and the Schiſmaticall, fa<g ref="char:EOLhyphen"/>ctious, and ſiniſter endevours alſo, of others, and their adherents likewiſe; both of them being made the Hereticall inſtruments of the Devill, unnatu<g ref="char:EOLhyphen"/>ally to Divide and Rent, the Head from the Bo<g ref="char:EOLhyphen"/>dy, or the Body from the Head, that he might the better rule and prevaile againſt both, and the Truth, Peace, and Proſperity of our Church and Common-weal.</p>
+            <p>I am not ignorant that many good Patriots and <hi>nehemiahs,</hi> true Friends to the Church and State, are ſcandalouſly branded with thoſe names, but I feare that ſome ſeeme to be when they are not, and it is one thing to be falſly called ſo, and another thing to bee ſo really indeed: For ſuch certainly there are, whom God in his good time will make manifeſt, who unlawfully goe about to ſever them whom God hath joyned together, to divide and rent the Truth and Peace of the Church and State. Theſe indeed (according to Saint <hi>Paul</hi> in the <hi>Galathians</hi>) trouble, and intend to pervert the Goſpel: But (ſaith he) though that an Angell from Heaven preach unto you other<g ref="char:EOLhyphen"/>wiſe then the Truth, Let him be accurſed.</p>
+            <p>The ſignes of this Diſeaſe have been ſufficient<g ref="char:EOLhyphen"/>ly made knowne, and they are apparent in their
+<pb n="4" facs="tcp:156389:4"/>effects, theſe gaping wounds, both in Church and State, pitties their beholders and friends to ſee them. The Prognoſticks are of great danger, and threaten the ſubverſion and diſſolution of the whole Bodie, and this may juſtly be feared, if the complication of this Diſeaſe bee well weighed with the manifold and malignant Symptomes wherewith the Body languiſhed before; this tends to the very expiration of the animall and vitall ſpirits the life it ſelfe; And that which makes the Omen worſe, is, that Inſtruments for Cure are not only neglected, but deſpiſed.</p>
+            <p>This treble cord of Unitie, to which our Ship was faſtned in thoſe ſtormes, is cracked, and ſhip<g ref="char:EOLhyphen"/>wrack feared; Our partition Wall is broken downe, or at leaſtwiſe uncaemented, and readie to fall, whereby we are expoſed aſwell to Forraigne as inteſtine miſchiefes. This divide and ſcatter, if it be not prevented, will be no ſmall curſe to <hi>Jacob</hi> and <hi>Iſrael:</hi> and our Saviour (if we will be<g ref="char:EOLhyphen"/>lieve him) tels us, that the iſſue of a Kingdome divided againſt it ſelfe will be deſtruction.</p>
+            <p>The Remedies as they ought to be contrary to the effects, ſo they muſt have reſpect to the cau<g ref="char:EOLhyphen"/>ſes, for till they be removed the effects will not ceaſe.</p>
+            <p>That irritating and primarie cauſe that hath made a Separation betweene our good God and us, are our ſinnes, theſe are thoſe noyſome and in<g ref="char:EOLhyphen"/>fectious vapours that have aſcended up, and by their interpoſition and Eclipſe of Gods gracious
+<pb n="5" facs="tcp:156389:4"/>goodneſſe, have produced malignant and peſtife<g ref="char:EOLhyphen"/>rous influences on us.</p>
+            <p>To you that are ſo much diſtempered at this time, give me leave before I come to propound you a cure, to adviſe with you firſt, that you may be the more willing to embrace and under<g ref="char:EOLhyphen"/>goe it; To which purpoſe let me entreat you dili<g ref="char:EOLhyphen"/>gently and conſideratly to reade over and medi<g ref="char:EOLhyphen"/>tate on the ſecond Chapter of the firſt Epiſtle to St. <hi>Peter,</hi> if you be religiouſly inclined, which I heare you much profeſſe, it will make you the bet<g ref="char:EOLhyphen"/>ter liſten to what I ſhall afterwards ſay unto you for the ſame end. In the next place I would ad<g ref="char:EOLhyphen"/>viſe you to reſolve to be contented to referre your ſelves to your Prudent Phyſicians, Whom God hath made as happy inſtruments of his mercy for your recoverie; and let me entreat you to be per<g ref="char:EOLhyphen"/>ſwaded by thoſe that are, and alwayes have been, your true friends, and have loved, and deſired your wel-fare as their owne: Bee confident that they know your diſeaſe, and ſeverall diſtempers, and the ſeverall cauſes of them, and have provi<g ref="char:EOLhyphen"/>ded (to their great charge and pains) fit Reme<g ref="char:EOLhyphen"/>dies for you, if you will be patient, and conforme to their directions, without which all their skill, care and coſt, will be of no availe to you: Your Diſeaſe for want thereof hath growne more diffi<g ref="char:EOLhyphen"/>cult of Cure, and hath contracted to it other deſ<g ref="char:EOLhyphen"/>perate diſeaſes, and is now become of ſuch a phre<g ref="char:EOLhyphen"/>neticall diſpoſition, that it tranſports you beyond your ſelfe, and hath depraved, and corrupted
+<pb n="6" facs="tcp:156389:5"/>your judgement, And your diſtracted feares and Phantaſmes make cauſleſſe jealouſies in you, even of your beſt friends, and make you ſome<g ref="char:EOLhyphen"/>times to offend them that moſt commiſerate and endevour to heale you.</p>
+            <p>Your actions now will not endure the touch<g ref="char:EOLhyphen"/>ſtone of Common ſence and Reaſon, nor the law of the Land, nor the Ballance of the Sanctu<g ref="char:EOLhyphen"/>ary, wherein you deſire to be weighed; inſomuch that unleſſe a ſpeedy remedy be applied, you are like to deſtroy your ſelfe and all yours, and it may be everlaſtingly too. Therefore while you doe enjoy at ſometimes a little better underſtanding, let the light of common reaſon prevaile with you. If the benefits of recovery will not invite you to incline to a cure, yet let the terrors and torment of thy diſeaſes, and Death allure thee, and the con<g ref="char:EOLhyphen"/>ſideration of thy Parents and friends, or thy wife, children, eſtate, and all that is thine or theirs: Be<g ref="char:EOLhyphen"/>ſides, remember that thy life is not thine owne to diſpoſe of, thou muſt know that it is but lent thee for the ſervice of thy Creator, thou ſhalt aſwell anſwer for the neglect of that due meanes God hath appointed thee for thy recoverie, As for laying of violent hands upon thy ſelfe or any o<g ref="char:EOLhyphen"/>ther, both of them being Murther in the ſight of God. So likewiſe if the bleſſings and Commo<g ref="char:EOLhyphen"/>dities of Unitie and Order will not prevaile with thee, Let the diſcommodities and terrours of Diſ<g ref="char:EOLhyphen"/>cord and diſorder affright thee to it. Suppoſe thy ſelfe and all thou haſt, or canſt call deare and
+<pb n="7" facs="tcp:156389:5"/>pretious to thee, either for the preſent or the fu<g ref="char:EOLhyphen"/>ture, were embarked only in one Veſſell, and it in a great ſtorme, amongſt rocks, quickſands, and Pyrats, and your only Cable that holds and pre<g ref="char:EOLhyphen"/>ſerves you from ruine were almoſt crackt in ſun<g ref="char:EOLhyphen"/>der, Wouldſt thou be ſo farre from lending thy hand to mend it, that thou wouldeſt cut and breake it more. Certainly no man in the ſame Ship that underſtands himſelfs, but will account thee a mad man for ſo doing, and hinder thee from doing it. Againe, if there were but one Bul<g ref="char:EOLhyphen"/>warke or partion-wall that keepes us from our bloudy enemies, and the cruelties of our adver<g ref="char:EOLhyphen"/>ſaries, wouldſt thou be one of them that ſhould pull it downe; Thinke upon the hydeous roaring of Cannons, the tormenting murders, bloudy Maſſacres, and lamentable cryes of thy Parents, Wife, Children or Friends, and loſſe of all, it may be of thine owne ſoule and theirs likewiſe. Againe, conſider of thoſe bounds and Fences which keepe in the violence of the Fire, and the rage of the Waters, which within their due bounds are uſefull and profitable for thee, wilt thou be ſo ſenceleſſe to pull the fire out of the Chimney into the middle of thy houſe, where Gun powder and other combuſtible matter is? Wilt thou breake downe thoſe bankes, and let the Ocean in to make a perpetuall deluge and inunda<g ref="char:EOLhyphen"/>tion of all? Or let me demand of thee if thou haſt ſo much judgement to diſcerne it, whether in thy warfare thou wouldſt not obſerve military diſci<g ref="char:EOLhyphen"/>pline?
+<pb n="8" facs="tcp:156389:6"/>Wouldſt thou bee one of them that ſhouldſt endeavour to breake thoſe rankes and formes thy Generall and Commanders order thee to fight in, and thereby to let the enemy make an inrode upon thy route, and diſorder, and ſo bring thee to confuſion? and you muſt know this may happen, by ſo ſmall a matter, as the loſſe of one naile of an horſe ſhooe, inan Army, and therefore how behoveful is it for thy Comman<g ref="char:EOLhyphen"/>ders, and thee alſo, to take care, and prevent all diſorder whatſoever in the leaſt appearance. Wherefore now as it ſtands thus deſperate, you are to be the more patient and willing to ſubmit your ſelfe to your Phyſitians care and fidelity. Be confident that they will doe nothing but for thy good, for they and theirs are likewiſe interreſſed therein. Thou muſt be contented to have thy ul<g ref="char:EOLhyphen"/>cers and putulent wounds clenſed before they are bound up, and Fractures and Diſlocations are not ſo eaſily united and reduced to the ſervice of the body without ſome dolour; Peradventure ſome of thy wounds are gangrened, and have contracted ſo much virulencie, that there muſt bee amputati<g ref="char:EOLhyphen"/>on and diſmembring of that joynt; But bee well aſſured that thy Phyſitians will not order it ſo to be, unleſſe they find abſolute neceſsitie, and then thou wilt find it better to part with a limme, then loſe thy life. Peradventure they may ſee cauſe to make ſome evacuation of thy redundant and pec<g ref="char:EOLhyphen"/>cant humours which hinder thy wounds from healing, and are apt to bring thee into other di<g ref="char:EOLhyphen"/>ſtempers.
+<pb n="9" facs="tcp:156389:6"/>When they ſee it fitting; they will give thee Cordials to comfort thee, and to give thee reſt for thy unſetled and diſtempered ſpirits, if they finde it to conduce to thy good. By this time I hope you are reſolved to be patient, and therefore now I will apply my ſelfe to the Remedies.</p>
+            <p>Let this Principle be granted (which indeed is not to be denied) that all afflictions come from God, and all injuries whatſoever doe befall us, by the Providence of the Almighty, and then we may preſently draw theſe Concluſions; That the inſtru<g ref="char:EOLhyphen"/>ment muſt doe that which the Almighty will have it to doe, And that it can goe no farther then hee pleaſeth to order it, and therefore we muſt firſt ap<g ref="char:EOLhyphen"/>ply our ſelves to him to remove it from whom it commeth.</p>
+            <p>The Diſeaſe indicates a neceſſity of a ſpeedy Vnition and Reconciliation to be made with the Almighty (whom wee have offended and provoked to wrath) in and by the Mediation and interceſſion of our Lord and Saviour Jeſus Chriſt. Speedy I ſay, becauſe that a little delay may bring a great deale of danger, few dayes neglect in this caſe may hazard thy life, And if this Remedy prevaile not ſen<g ref="char:EOLhyphen"/>tence of Death may paſſe upon you ſooner then you are aware. Procraſtination in wounds and other diſeaſes often makes them incurable. Continuance in ſin is not the way to make ſatisfaction to God, Confeſſion, and Contrition begets remiſſion, when obſtinacie heapes on further puniſhment. Do'ſt thou think to eſcape Gods hand by murmuring
+<pb n="10" facs="tcp:156389:7"/>againſt him? Be well aſſured, if the ſword of Ju<g ref="char:EOLhyphen"/>ſtice prevailes not, it may be the Plague or Famine ſhall, or ſome ſevere judgement. Thou ſhalt get nothing by thy impatience; for thou art not able to reſiſt the Almighty, and if he takes the rod into his hand againe, hee will make thee feele it to the purpoſe. Let me rather adviſe thee to ſubmit to the mercy of ſo gracious and loving a Father; and not to ſtand to the terror and anger of the Almighty. That wee may meet God in the way of his Judge<g ref="char:EOLhyphen"/>ments by Prayers and true Repentance, that ſweet Incenſe which will correct and diſſipate thoſe ma<g ref="char:EOLhyphen"/>levolent aſpects. It hath beene heartily prayed for, and endeavoured, that there might bee a generall monthly day of Humiliation, for the bleſſing of the Parliament with Vnanimous proceedings, for the ſetling of Religion in Truth &amp; Peace, for the com<g ref="char:EOLhyphen"/>poſing of diſtractions at Home, and for the diſtreſſes and ſeaſonable reliefe of our Brethren in <hi>Ireland,</hi> for averſion of thoſe impendent judgements over our heads. Not forgetting to give thanks to the Lord, for thoſe manifold Mercies we have received, and for all good meanes conducing to our reliefe.</p>
+            <p>That theſe dayes may take the better ſucceſſe and effect, As a praeparatory thereunto, it may prove uſefull and beneficiall, if ſome grave Ortho<g ref="char:EOLhyphen"/>dox Divines, and Chriſtians, wel ſetled and affected to the Truth, and Peace of the Church and State, did meet and conſider of thoſe chief and provoking Sinnes of this Kingdome, which are thoſe efficient and impulſive cauſes of our diſunions and diſtieſſes at this time.</p>
+            <pb n="11" facs="tcp:156389:7"/>
+            <p> There are queſtionleſſe generall ſinnes of Nati<g ref="char:EOLhyphen"/>ons as well as of particular perſons, whereby God is provoked to wrath.</p>
+            <p>There may be ſinnes of Superiours, as well as ſinnes of Interiours, there may be ſinnes in the Court, and ſinnes in the Parliament. Sinnes of Vniverſities, and ſinnes of thoſe ſtreames that flow from thence, ſinnes of the Citie, and ſinnes of the Country, ſinnes of the Clergie, and (which is to be lamented) ſcandalous, ſeditious, and Schiſmaticall ſinnes of Profeſſours, and ſuch as take themſelves to be (and peradventure ſome of them are) of Gods owne <hi>Iſael</hi> and choſen people, wherewith God is, and will be much incenſed and offended.</p>
+            <p>When theſe are well diſcovered (and notice alſo given by Advice of Authority) that true Repen<g ref="char:EOLhyphen"/>tance may be faithfully and reſpectively preached, and Reformation in generall and particular endea<g ref="char:EOLhyphen"/>voured, otherwiſe the cure will be but Palliative, and Maſter left for Recidivation. Humiliation without Reformation is but Hypocriſie, which will end in Apoſtacie. There muſt be true and plaine dealing with the Almighty, hee ſeeth and knowes every mans heart and wayes, and ponders all our doings.</p>
+            <p>It is not any particular blaming one another wil excuſe us to him, not the Cities crying out on the Country, or Country on the Citie, or the like. Eve<g ref="char:EOLhyphen"/>ry one muſt put his hand to this genreall work; every one that hath had but one hand in breaking downe our Partition wall, muſt lend both hands to
+<pb n="12" facs="tcp:156389:8"/>build it up againe: But thoſe that have lent both their hands to pull it downe, and more then their owne hands too, as well in the Primary as in the in<g ref="char:EOLhyphen"/>ſtrumentall cauſe, had need to give more then ordi<g ref="char:EOLhyphen"/>nary diligence to the ſpeedy rebuilding thereof a<g ref="char:EOLhyphen"/>gaine. And whoſoever that is not willing to put his helping hand hereunto, let him partake of thoſe miſeries which his owne hands have wrought.</p>
+            <p>It agrees not with my diſpoſition to grate and ſtir in thoſe wounds, they have already by ſome bin laid open, and may indue time be more largely diſ<g ref="char:EOLhyphen"/>covered by others, to whom it properly belongs. I ſhall rather lend my hand to cloſe them up, to which end till better Remedies are found out, I ſhall make bold to recommend and Preſent a moſt ſoveraigne and pretious Balme for all Solutions of Vnity whatſoever. It is compoſed of many ſeverall Ingredients of admirable vertue. It is Saint <hi>Pauls Balſamum Charitatis.</hi> It is his <hi>Sine quibus eſſe nole.</hi> You ſhall finde the Receipt in the firſt of <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> the 13 Chapter: where alſo you may ready the Deſcription of the ſeverall Vertues and Operations thereof. Charity (ſaith he) ſuffers long, and is kind, Charity envies not, Charity vaunts not it ſelfe, Is not puffed up, doth not behave it ſelfe unſeemly, ſeekes not her owne; is not eaſily provoked, thinks no evill, Rejoyceth not in iniquity, but rejoyceth in the Truth: Beareth all things, Beleeveth all things, hopeth all things, eudureth all things.</p>
+            <p>The farther excellency and neceſſity thereof, is expreſſed in the ſaid Chapter. Though I ſpeake
+<pb n="13" facs="tcp:156389:8"/>with the tongues of men and of Angels (ſaith he) and have not Charity, I am become as ſounding braſſe, or a tinckling Cymball, and though I have the gift of Prophecic, and anderſtand all miſteries and all knowledge, and though I have all faith, ſo that I could remove Mountaines, and have no Charity, I am nothing. And though I beſtow all my goods to feed the poore, &amp; though I give my Body to be bur<g ref="char:EOLhyphen"/>ned, and have not Charity, it profiteth me nothing.</p>
+            <p>Charity never faileth, but whether there be Pro<g ref="char:EOLhyphen"/>phecies ſhall faile, whether there be tongues they ſhall ceaſe, whether there be Knowledge it ſhal vaniſh away. And now abideth Faith, Hope, and Charity, theſe three, but the greateſt of theſe is Charity. This Compoſition includes the Prophet <hi>Micahs Tripharmacum, viz.</hi> To doe juſtly, to love Mercy, and to walk humbly with thy God. And what doth the Lord require more of thee O Man, ſaith the Prophet.</p>
+            <p>This is that <hi>Balſamum Sympatheticum,</hi> the true <hi>Pa<g ref="char:EOLhyphen"/>nacca</hi> that will heale all our rents and diviſions, and it doth not only cure for the preſent, but preſerves for the future, weare it as a <hi>Prophyactick</hi> about thee, and goe notwithout it. Hee that rejects it, put a mark upon him, and according to <hi>Solomons</hi> advice in the 24 <hi>Pro.</hi> Meddle not with him, for hee feares not God and the King, and is given to ſedition. Avoid ſuch an one as thou wouldſt doe a Viper, a Crocodile, a Baſilisk, or one that is infected with the Plague.</p>
+            <p>Our wounds being bound up with this Balme,
+<pb n="14" facs="tcp:156389:9"/>(it hath been likewiſe humbly ſought, and prayed for) that Religion may bee ſetled both in Doctrine and Diſcipline with all due and conve<g ref="char:EOLhyphen"/>nient ſpeed, and all Proteſtants, eſpecially Mini<g ref="char:EOLhyphen"/>ſters, united therein by Proteſtation, and ſatisfa<g ref="char:EOLhyphen"/>ctory explanations and reaſons publiſhed thereof.</p>
+            <p>That the Converſion of all Papiſts and other Hereticall and Schiſmaticall Subjects in the King<g ref="char:EOLhyphen"/>dome, who have erred and gone aſtray from the Truth, may in all charitable and Chriſtian man<g ref="char:EOLhyphen"/>ner be endevoured with to be reduced home to the Church; ſhewing them the neceſsity of our Separation from them, or rathers as it is indeed their Apoſtacie from the true Church with which we partake, the danger of the condition they are in, the benefit of embracing theſe, and the like gracious invitations, extending to the good of their ſoules, bodies, and eſtates. Thus many of them, who certainly belong unto God, may be brought home to him, and made uſefull and ſer<g ref="char:EOLhyphen"/>viceable, the reſt left inexcuſable to God, the World, and their own conſciences.</p>
+            <p>That juſtice and judgment may be executed on ſuch as have received ſuch putrifaction, that by their virulencie they infect and indanger others.</p>
+            <p>That the ſeverall languiſhing, oppreſſed, whoſe cryes have entred the eares of the Lord (ſome of whom for ſeverall yeares have received al<g ref="char:EOLhyphen"/>moſt
+<pb n="15" facs="tcp:156389:9"/>deadly wounds for the mayatenance of the publike good) may in good time be relieved and redreſſed.</p>
+            <p>That the well deſerving may be incourage, Virtue advanced, and Vice depreſſed.</p>
+            <p>Thus God will be pacified, and wee united and reconciled to him, and amongſt our ſelves. Thus all thoſe incoveniences and Miſchiefs which we feare, by Gods bleſsing on the unanimous endea<g ref="char:EOLhyphen"/>vours of the Parliament, may turne to our great bleſsing and commoditie.</p>
+            <p>Thus our Ship will arrive ſafely at her deſired Port.</p>
+            <p>Thus our treble Cord, and Partition Wall, will be made ſtronger then ever.</p>
+            <p>Thus thoſe bloudy, fiery and malignant Con<g ref="char:EOLhyphen"/>figurations (which hang over our heads) will be ſpeedily terminated, and their revolutions pre<g ref="char:EOLhyphen"/>vented for the future, and wee ſhall receive more benigne and favourable influences and aſpects from above, then ever wee had before.</p>
+            <p>Thus wee ſhall begin a new World, or at leaſt<g ref="char:EOLhyphen"/>wiſe make a happy Concluſion of an old, Where<g ref="char:EOLhyphen"/>in God will give us one heart, and one Way (as
+<pb n="16" facs="tcp:156389:10"/>it is in <hi>Jeremiah</hi>) that wee may feare him for ever, for the good of us and our Children after us.</p>
+            <p>God I ſay will doe it, for He and He only is a<g ref="char:EOLhyphen"/>ble to unite and heale all our Solutions, and there<g ref="char:EOLhyphen"/>fore, <hi>Not unto us Lord, not unto us, but unto thy name be given the Glory and Prayſe, now and for evermore.</hi> Amen.</p>
+            <closer>
+               <signed>I. W.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="imprimatur">
+            <pb facs="tcp:156389:10"/>
+            <p>PErlegi Tractatum hunc ingenioſum, in quo nihil inveniri poteſt, quod non ſit pium, religioſum, bonismoribus, legibuſ<g ref="char:EOLhyphen"/>que ſanis maxime conſentaneum: ceſſent ita<g ref="char:EOLhyphen"/>què virulentae malevolorum linguae hoc (ut optima imò quidem omnia ſolent) carpere opuſculum, acerbitatis ſuae virus in Autho<g ref="char:EOLhyphen"/>rem candidum evomere erubeſcant; &amp; dum moroſos &amp; imprudentes noſtri hujus ſaeculi homunciones (quorum inſipidis palatis nihil niſi proprii cerebelli figmenta ſapit) ad re<g ref="char:EOLhyphen"/>ctam rationis legumque normam reducere conatur, ab omnibus (quibus curae eſt pax &amp; ſerena Eccleſiae heu nimis nunc tempo<g ref="char:EOLhyphen"/>ris dilaceratae tranquillitas) laudem, uti benè meretur, conſequartur.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
